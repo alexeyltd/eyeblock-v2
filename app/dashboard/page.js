@@ -1,5 +1,4 @@
 // pages/dashboard.js
-import AudioProcessor from "@/components/AudioProcessor";
 import ButtonAccount from "@/components/ButtonAccount";
 import CryptoWalletScreening from "@/components/CryptoWalletScreening";
 
